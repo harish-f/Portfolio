@@ -31,7 +31,7 @@
         {
             "title": "Investigative Skills in Science",
             "description": "In sec2, 2 of my peers and I investigated the effect of corona discharge on bacterial growth as part of the ISS module in our school. Our project won several awards such as best presentation award at Opportunity X science fair and the merit award at A*Star East Zone Science Fair.",
-            "imageLink": "https://images.pexels.com/photos/777059/pexels-photo-777059.jpeg",
+            "imageLink": "https://blogger.googleusercontent.com/img/a/AVvXsEjXjceWmaGAecBYpc2me5KSqweIp6qYU9UFt-9F1sYtyLsbGpv0DVYMDLRu5FAKOnrL3eTC_d9t2hbNGQUXT0LRXSfomfrgvMyXQRZi_VFZdk8gUYG4MeDjLEpq6ypwJ2_f-XQDoUlZYgMRM4TVR3mYr-Cj3g7vXtBdLcb_N_1KlSoif4-5YSQ4aR22",
             "links": [
                 {
                     "icon": "https://cdn-icons-png.flaticon.com/512/124/124036.png",
@@ -84,7 +84,7 @@
     "achievements": [
         {
             "title": "IMDA Youth Awards",
-            "image": "https://cdn-icons-png.flaticon.com/512/2441/2441759.png",
+            "image": "https://yt3.googleusercontent.com/nLsAJOKwddqxCMdCn0aFKd17Z1FTSX6Hb3rrWr_TNi4Edcwr8gWGFESyKL-yuvHSolbGXkyfvkA=s900-c-k-c0x00ffffff-no-rj",
             "tag": {
                 "award": "Distinction",
                 "colour": "#e3c728",
@@ -93,7 +93,7 @@
         },
         {
             "title": "Perse Coding Competition 2022-2024",
-            "image": "https://cdn-icons-png.flaticon.com/512/2441/2441759.png",
+            "image": "https://persecoding.wordpress.com/wp-content/uploads/2017/12/cropped-braben-logo.jpg",
             "tag": {
                 "award": "Distinction",
                 "colour": "#e3c728",
@@ -111,7 +111,7 @@
         },
         {
             "title": "Australian Informatics Olympiad",
-            "image": "https://cdn-icons-png.flaticon.com/512/2441/2441759.png",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQayZWrbAaPSlA0_BgwPW5oZmhFDqhkvnOVg&s",
             "tag": {
                 "award": "Silver",
                 "colour": "#B5B5B5",
@@ -129,7 +129,7 @@
         },
         {
             "title": "Computational and Algorithmic Thinking Contest 2022",
-            "image": "https://cdn-icons-png.flaticon.com/512/2441/2441759.png",
+            "image": "https://seed-static.seedasdan.com/wordpress/2018/01/AMT-Intro-right.jpg?x-oss-process=image/resize,m_fill,w_300,h_300",
             "tag": {
                 "award": "Gold | Best in School",
                 "colour": "#e3c728",
@@ -138,7 +138,7 @@
         },
         {
             "title": "National Informatics Olympiad",
-            "image": "https://cdn-icons-png.flaticon.com/512/2441/2441759.png",
+            "image": "https://noisg.comp.nus.edu.sg/noi/images/noi-logo.png",
             "tag": {
                 "award": "Finals | Top 6 in School",
                 "colour": "#CD7F32",
@@ -155,8 +155,8 @@
             }
         },
         {
-            "title": "Thailand Astronomical Conference",
-            "image": "https://cdn-icons-png.flaticon.com/512/2441/2441759.png",
+            "title": "Thailand Astronomical Conference - Horn Antenna",
+            "image": "https://www.narit.or.th/images/00_banners/narit_logo.png",
             "tag": {
                 "award": "",
                 "colour": "#fff",
@@ -165,7 +165,7 @@
         },
         {
             "title": "SASMO 2022",
-            "image": "https://cdn-icons-png.flaticon.com/512/2441/2441759.png",
+            "image": "https://olympiadindia.in/wp-content/uploads/2023/02/sasmo-2-300x201-1.png",
             "tag": {
                 "award": "Silver",
                 "colour": "#B5B5B5",
@@ -174,7 +174,7 @@
         },
         {
             "title": "Australian Mathematics Contest",
-            "image": "https://cdn-icons-png.flaticon.com/512/2441/2441759.png",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBHt-pPA9TLi8lQcrtR1mXrivVoeBFSMdDHw&s",
             "tag": {
                 "award": "Silver",
                 "colour": "#B5B5B5",
@@ -183,7 +183,7 @@
         },
         {
             "title": "OUCC 2022",
-            "image": "https://cdn-icons-png.flaticon.com/512/2441/2441759.png",
+            "image": "https://www.amt.edu.au/wp-content/uploads/2024/01/20240124-AMT-Logo-OUCC.png",
             "tag": {
                 "award": "Bronze",
                 "colour": "#CD7F32",
@@ -210,7 +210,7 @@
         },
         {
             "title": "Opportunity X Science Fair",
-            "image": "https://cdn-icons-png.flaticon.com/512/2441/2441759.png",
+            "image": "https://static.wixstatic.com/media/02ad08_3246d64f8bed4ea8b894aeaaf0f8c337~mv2.png/v1/fill/w_745,h_745,al_c,q_90,enc_auto/new_logo.png",
             "tag": {
                 "award": "Best Presentation",
                 "colour": "#e3c728",
