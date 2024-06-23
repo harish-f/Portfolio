@@ -7,9 +7,17 @@
     "projects": [
         {
             "title": "MentalStop",
-            "description": "MentalStop is a project I did in Sec 3 as part of project serve within SST Inc, a talent development program in SST. Using the ReactJS framework, we built a website that helped increase awareness about certain mental health issues and also give users more insight into their mental health through an online diary that uses AI and linear regression to evaluate and identify trends in the users mental health.",
-            "imageLink": "https://images.pexels.com/photos/777059/pexels-photo-777059.jpeg",
+            "description": "Using the ReactJS framework, we built MentalStop, which aims to increase awareness about mental health issues and also give users more insight into their mental health through an AI-driven diary that evaluates and identifies trends in the users mental health.",
+            "imageLink": "https://onecms-res.cloudinary.com/image/upload/s--ANmS5Q1C--/v1/mediacorp/cna/image/2023/01/08/bstudio_imda_sst_cna_7th_tile_copy.jpg",
             "links": [
+                {
+                    "icon": "https://mentalstop-sstinc.web.app/_next/static/media/mentalStopLogo.a6cb82f0.png",
+                    "redirect": "https://mentalstop-sstinc.web.app/"
+                },
+                {
+                    "icon": "https://upload.wikimedia.org/wikipedia/commons/4/47/CNA_unveils_new_logo_as_it_celebrates_its_20th_anniversary.png",
+                    "redirect": "https://www.channelnewsasia.com/brandstudio/imc-youthawards/schoolofsciencetech"
+                },
                 {
                     "icon": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
                     "redirect": "https://github.com/SeansC12/mentalstop"
@@ -21,80 +29,191 @@
             ]
         },
         {
-            "title": "ISS",
-            "description": "In sec2, I had designed and carried out an investigative research project with 2 of my peers. We decided to investigate the RESEARCH QUESTION. Our project was sent to several competitions and won several awards such as the bronze award at a star smth comp and best presentation award at Opportunity X science fair.",
+            "title": "Investigative Skills in Science",
+            "description": "In sec2, 2 of my peers and I investigated the effect of corona discharge on bacterial growth as part of the ISS module in our school. Our project won several awards such as best presentation award at Opportunity X science fair and the merit award at A*Star East Zone Science Fair.",
             "imageLink": "https://images.pexels.com/photos/777059/pexels-photo-777059.jpeg",
             "links": [
                 {
                     "icon": "https://cdn-icons-png.flaticon.com/512/124/124036.png",
                     "redirect": "https://vimeo.com/687028804"
+                },
+                {
+                    "icon": "https://png.pngtree.com/png-vector/20190803/ourmid/pngtree-wallpaper-poster-brochure-abstract-flat-color-icon-template-png-image_1648564.jpg",
+                    "redirect": "https://drive.google.com/file/d/1GAYZ0QoRuIJFlIgFoeVc8a3NurWU1Bov/view"
                 }
             ]
         },
         {
             "title": "Tesla Coil",
-            "description": "This was a personal project of mine that I embarked on in secondary 1. I had initially just been fascinated by videos I watched on YouTube about high voltage electricity. However, this initial curiosity turned into a obsession of mine and I delved into the Science behind how high voltage is generated. I made my first Tesla coil at the end of P6. However it was barely functioning and incredibly low powered. This set me off on a path to make a better and more powerful tesla coil which eventually led to me making my second Tesla coil.",
-            "imageLink": "https://images.pexels.com/photos/777059/pexels-photo-777059.jpeg",
+            "description": "This was a personal project of mine that I embarked on in secondary 1. I was initially fascinated by videos on YouTube about high voltage physics. This curiosity turned into a obsession of mine and I delved into the science behind how high voltage is generated. Eventually leading me to making my first Tesla coil at the end of P6 that was barely functioning and low powered. This set me off on a journey to make a more powerful second tesla coil, shown on the left.",
+            "imageLink": "https://lh3.googleusercontent.com/drive-viewer/AKGpihYAOP8vL0pMUImwY3vtS8zO16Q5ijYlb125nKsq1LZqHJ7tk9gZGSvMblrrzJBh0Jngmc1M-vnFTiJkfbiPRdNhBXdV8oShQ64=w3278-h2018-rw-v1",
             "links": [
                 {
-                    "icon": "https://cdn-icons-png.flaticon.com/512/124/124036.png",
-                    "redirect": "https://vimeo.com/687028804"
+                    "icon": "https://cdn-icons-png.flaticon.com/512/3128/3128307.png",
+                    "redirect": "https://www.youtube.com/shorts/lJyL61F8rPA"
+                }
+            ]
+        },
+        {
+            "title": "Face Filter",
+            "description": "This was initially a graded task for us. But me and my partner Sean (shown testing the app) added our own twist to it with features like a slider controlled by pinching your fingers.",
+            "imageLink": "https://lh3.googleusercontent.com/u/0/drive-viewer/AKGpihbKFS0pLCn4yqRUVCmhSuuQN9N36nyySct7HkL4CK4l_GwVhKfTTtxAcrRwxc9fiTQzHMDZXw1-9rms1EhVz6jVEaQd1AHTdGA=w3278-h2018-rw-v1",
+            "links": [
+                {
+                    "icon": "https://cdn-icons-png.flaticon.com/512/3128/3128307.png",
+                    "redirect": "https://drive.google.com/file/d/1jIw62yph2-JvK4hNi9jO19rJt8XAwiPl/view"
+                },
+                {
+                    "icon": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
+                    "redirect": "https://github.com/SeansC12/face-filter-flask"
+                }
+            ]
+        },
+        {
+            "title": "Horn Antenna",
+            "description": "This was a research project I did with Zhi Ler, as part of Astronomy Club. We used a homemade antenna called a horn antenna, and relatively inexpensive equipment to measure a spectral line called the hydrogen line.",
+            "imageLink": "https://lh3.googleusercontent.com/fife/ALs6j_HkZeiqLzMuQKAvO65waTXMezMp4nSVjvqFasvuJPnfcuX12x0-Q4A6-ij6-dMffEHrm2IK0FYQ8kxfM9pq1NGX_yIr-rInUwn79qMFtk64eb-vJqb1ViUuLFBihGrlASZyxIjVM4MOND7ie4ZF1LhKiD87OWmqyr52DxAcu56nrpVj75iTh05Y8FfxTsaWTdAvZw2Qci_iyJitFbxUTfT22R88HzHqesNFzYtlc7j1n-kwcCrt0qbIp3td_eMk-7TIoTadsxMJ67wZ1xbxe2Svm98UXL8hSQkUXALqXz_Bhm0ZEkqMaa-6yphXV9rYPhHYrqBuZMKcY863lKU1qhtd5oUZrClbfxGVHyQtMQUawBgVe98O33VwNCg5dvkpodlW21D6GvFYsXsweQNBz4EQos8ua7ruZXoVnIABMnnBwxS7cR0xQrMrTGhamJecJeyK_cI_2uPb8AhdJmjVCHkNfqBq4ZCFiETM99qmKg2G38CU4BGQ9qyi0wVKHnrGuOsp9kueQ3IcJu7DZIWKDdStXnzpSnGb9S8IVJRHpL-CE7rGk4-E7RDPvs-Dy_aFTUo_13OeFB7J8SEiYHewwpBv9iBpwBuLVUb7vaA5PCJ5oZdg1cGPG9_lnDhELObD8TbaZB9NDluzi4LJ-P3-qr8ngjAq4RgJsikPsA4zF4_hX2Yxx420AET4D7EK90wC_9ZQP2Yd4rdCrU4tD_EeVshvLBhZfAt2UWhuuNL9wA-pX_6TwudqYgqkzLYqsZlNHcp2I5ITupjpUzSGSQ4S0izoJSqP5afrqBKBI1d5C4aAyMQVaiMKEGrkflqPqbFj-Vf3yng27giUdEgZ-ME5BCNuuWSt0eJCqHqcwWAt-VXOIv-bAfRpl1gaJbVqxf3SWD3sPUmslPmBy9370NlQQGmlwBC1Ike-Ve6Mr_zvAo-Imp1s2f5sANP-xxJt2JD05C0neCE0oRfXQ9O9HlkBPthBC3qNWrPayLtXTN9FMpf_sw=w3278-h2018-rw-v1",
+            "links": [
+                {
+                    "icon": "https://cdn-icons-png.flaticon.com/512/11462/11462797.png",
+                    "redirect": "https://docs.google.com/document/d/1TDKA-uE17NvoPttPAaNlp1NCAg0RzwNksK_jLIqKwn0/edit"
                 }
             ]
         }
     ],
     "achievements": [
         {
-            "title": "Perse Coding Competition",
-            "image": "https://cdn-icons-png.flaticon.com/512/124/124036.png",
+            "title": "IMDA Youth Awards",
+            "image": "https://cdn-icons-png.flaticon.com/512/2441/2441759.png",
             "tag": {
                 "award": "Distinction",
-                "colour": "#FFD700",
+                "colour": "#e3c728",
                 "shadow": true
             }
         },
         {
-            "title": "C.B. Pauls Science Quiz",
-            "image": "https://cdn-icons-png.flaticon.com/512/124/124036.png",
+            "title": "Perse Coding Competition 2022-2024",
+            "image": "https://cdn-icons-png.flaticon.com/512/2441/2441759.png",
+            "tag": {
+                "award": "Distinction",
+                "colour": "#e3c728",
+                "shadow": true
+            }
+        },
+        {
+            "title": "C.B. Pauls Science Quiz 2022",
+            "image": "https://cdn-icons-png.flaticon.com/512/2441/2441759.png",
             "tag": {
                 "award": "1st Individual placing",
-                "colour": "#FFD700",
+                "colour": "#e3c728",
                 "shadow": true
             }
         },
         {
-            "title": "Title",
-            "image": "https://cdn-icons-png.flaticon.com/512/124/124036.png",
+            "title": "Australian Informatics Olympiad",
+            "image": "https://cdn-icons-png.flaticon.com/512/2441/2441759.png",
             "tag": {
-                "award": "Perse Coding Competition",
-                "colour": "#FFD700",
+                "award": "Silver",
+                "colour": "#B5B5B5",
                 "shadow": true
             }
         },
         {
-            "title": "Title",
-            "image": "https://cdn-icons-png.flaticon.com/512/124/124036.png",
+            "title": "Astrigue 2023",
+            "image": "https://cdn-icons-png.flaticon.com/512/2441/2441759.png",
             "tag": {
-                "award": "Perse Coding Competition",
-                "colour": "#FFD700",
+                "award": "Silver",
+                "colour": "#B5B5B5",
                 "shadow": true
             }
         },
         {
-            "title": "Title",
-            "image": "https://cdn-icons-png.flaticon.com/512/124/124036.png",
+            "title": "Computational and Algorithmic Thinking Contest 2022",
+            "image": "https://cdn-icons-png.flaticon.com/512/2441/2441759.png",
             "tag": {
-                "award": "Perse Coding Competition",
-                "colour": "#FFD700",
+                "award": "Gold | Best in School",
+                "colour": "#e3c728",
                 "shadow": true
             }
         },
         {
-            "title": "Title",
-            "image": "https://cdn-icons-png.flaticon.com/512/124/124036.png",
+            "title": "National Informatics Olympiad",
+            "image": "https://cdn-icons-png.flaticon.com/512/2441/2441759.png",
             "tag": {
-                "award": "Perse Coding Competition",
-                "colour": "#FFD700",
+                "award": "Finals | Top 6 in School",
+                "colour": "#CD7F32",
+                "shadow": true
+            }
+        },
+        {
+            "title": "International Collaborative Research Fair",
+            "image": "https://cdn-icons-png.flaticon.com/512/2441/2441759.png",
+            "tag": {
+                "award": "",
+                "colour": "#fff",
+                "shadow": true
+            }
+        },
+        {
+            "title": "Thailand Astronomical Conference",
+            "image": "https://cdn-icons-png.flaticon.com/512/2441/2441759.png",
+            "tag": {
+                "award": "",
+                "colour": "#fff",
+                "shadow": true
+            }
+        },
+        {
+            "title": "SASMO 2022",
+            "image": "https://cdn-icons-png.flaticon.com/512/2441/2441759.png",
+            "tag": {
+                "award": "Silver",
+                "colour": "#B5B5B5",
+                "shadow": true
+            }
+        },
+        {
+            "title": "Australian Mathematics Contest",
+            "image": "https://cdn-icons-png.flaticon.com/512/2441/2441759.png",
+            "tag": {
+                "award": "Silver",
+                "colour": "#B5B5B5",
+                "shadow": true
+            }
+        },
+        {
+            "title": "OUCC 2022",
+            "image": "https://cdn-icons-png.flaticon.com/512/2441/2441759.png",
+            "tag": {
+                "award": "Bronze",
+                "colour": "#CD7F32",
+                "shadow": true
+            }
+        },
+        {
+            "title": "BEBRAS 2022",
+            "image": "https://cdn-icons-png.flaticon.com/512/2441/2441759.png",
+            "tag": {
+                "award": "Bronze",
+                "colour": "#CD7F32",
+                "shadow": true
+            }
+        },
+        {
+            "title": "VJC-A*Star Science Fair 2022",
+            "image": "https://cdn-icons-png.flaticon.com/512/2441/2441759.png",
+            "tag": {
+                "award": "Merit",
+                "colour": "#CD7F32",
+                "shadow": true
+            }
+        },
+        {
+            "title": "Opportunity X Science Fair",
+            "image": "https://cdn-icons-png.flaticon.com/512/2441/2441759.png",
+            "tag": {
+                "award": "Best Presentation",
+                "colour": "#e3c728",
                 "shadow": true
             }
         }
