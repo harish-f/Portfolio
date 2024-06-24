@@ -4,6 +4,32 @@
         "name": "Harish Ram Baghavath",
         "description": "Hello there 👋 I'm a student/maker/coder. Have a look at some of my accomplishments!"
     },
+    "skills": [
+        {
+            "image": "https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png",
+            "name": "Python"
+        },
+        {
+            "image": "https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png",
+            "name": "ReactJS"
+        },
+        {
+            "image": "https://camo.githubusercontent.com/4e132050677d8adef9aed62b9fdc89a1ae68bdc3a42c1e3457dfaa5e2e7583fa/68747470733a2f2f646576656c6f7065722e6170706c652e636f6d2f6173736574732f656c656d656e74732f69636f6e732f737769667475692f737769667475692d313238783132385f32782e706e67",
+            "name": "SwiftUI"
+        },
+        {
+            "image": "https://cdn-icons-png.flaticon.com/512/2201/2201555.png",
+            "name": "CAD Modelling"
+        },
+        {
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Arduino_IDE_logo.svg/2048px-Arduino_IDE_logo.svg.png",
+            "name": "Arduino"
+        },
+        {
+            "image": "https://cdn-icons-png.flaticon.com/512/911/911412.png",
+            "name": "Electronics"
+        }
+    ],
     "projects": [
         {
             "title": "MentalStop",
