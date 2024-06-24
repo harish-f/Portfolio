@@ -11,6 +11,7 @@ export default function Projects() {
 
     return (
         <div className="bg-gray-400 min-h-screen space-y-10 p-10">
+            <p className="text-5xl text-center font-semibold mb-5 underline">Projects</p>
             {projects.map((project, key) => (
                 <ProjectCard project={project} key={key} index={key} />
             ))}
