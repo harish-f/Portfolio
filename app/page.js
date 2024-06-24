@@ -4,6 +4,7 @@ import Projects from "@/components/sections/Projects";
 import Intro from "@/components/sections/Intro";
 import Header from "@/components/sections/Header";
 import Achievements from "@/components/sections/Achievements";
+import Skills from "@/components/sections/Skills";
 
 // const projects = [
 //   {
@@ -60,6 +61,7 @@ export default function Home() {
         <Header />
         <Intro />
       </div>
+      <Skills />
       <Projects />
       <Achievements />
     </main>
