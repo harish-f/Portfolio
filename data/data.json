@@ -1,8 +1,8 @@
 {
     "intro": {
-        "imageLink": "https://lh3.googleusercontent.com/u/0/drive-viewer/AKGpihanwUN-sxjnjzwqjR1CJWplbscgk6dd5is0XBm0-mluUxkB59fC-neXX9BSaqKw9Kagt4u7qNp9VjAyrEwqp1DXqKgJnB0UnQ=w3278-h2018",
+        "imageLink": "https://i.imgur.com/YuVjpne.jpeg",
         "name": "Harish Ram Baghavath",
-        "description": "Hello there 👋 I'm a student/maker/coder. Have a look at some of my accomplishments!"
+        "description": "Hello there 👋 I'm a student/maker/developer. Have a look at some of my accomplishments!"
     },
     "skills": [
         {
@@ -14,7 +14,7 @@
             "name": "ReactJS"
         },
         {
-            "image": "https://camo.githubusercontent.com/4e132050677d8adef9aed62b9fdc89a1ae68bdc3a42c1e3457dfaa5e2e7583fa/68747470733a2f2f646576656c6f7065722e6170706c652e636f6d2f6173736574732f656c656d656e74732f69636f6e732f737769667475692f737769667475692d313238783132385f32782e706e67",
+            "image": "https://img.icons8.com/fluent/512/swiftui.png",
             "name": "SwiftUI"
         },
         {
@@ -31,6 +31,17 @@
         }
     ],
     "projects": [
+        {
+            "title": "Teaching ReactJS @ SST Incorporated",
+            "description": "SST Incorporated is a student-run Talent Development Programme at SST. It aims to teach students various front-end frameworks such as ReactJS, SwiftUI and Jetpack Compose. I was also elected as the React CTO, where I taught the ReactJS framework to a class of approximately 20 students over the course of a year.",
+            "imageLink": "https://miro.medium.com/v2/resize:fit:1000/1*Yafu7ihc1LFuP4azerAa4w.png",
+            "links": [
+                {
+                    "icon": "https://i.imgur.com/oKXpDa9.png",
+                    "redirect": "https://www.sstinc.org/"
+                }
+            ]
+        },
         {
             "title": "MentalStop",
             "description": "Using the ReactJS framework, we built MentalStop, which aims to increase awareness about mental health issues and also give users more insight into their mental health through an AI-driven diary that evaluates and identifies trends in the users mental health.",
@@ -72,7 +83,7 @@
         {
             "title": "Tesla Coil",
             "description": "This was a personal project of mine that I embarked on in secondary 1. I was initially fascinated by videos on YouTube about high voltage physics. This curiosity turned into a obsession of mine and I delved into the science behind how high voltage is generated. Eventually leading me to making my first Tesla coil at the end of P6 that was barely functioning and low powered. This set me off on a journey to make a more powerful second tesla coil, shown on the left.",
-            "imageLink": "https://lh3.googleusercontent.com/drive-viewer/AKGpihYAOP8vL0pMUImwY3vtS8zO16Q5ijYlb125nKsq1LZqHJ7tk9gZGSvMblrrzJBh0Jngmc1M-vnFTiJkfbiPRdNhBXdV8oShQ64=w3278-h2018-rw-v1",
+            "imageLink": "https://i.imgur.com/XEzW89X.jpeg",
             "links": [
                 {
                     "icon": "https://cdn-icons-png.flaticon.com/512/3128/3128307.png",
@@ -83,7 +94,7 @@
         {
             "title": "Face Filter",
             "description": "This was initially a graded task for us. But me and my partner Sean (shown testing the app) added our own twist to it with features like a slider controlled by pinching your fingers.",
-            "imageLink": "https://lh3.googleusercontent.com/u/0/drive-viewer/AKGpihbKFS0pLCn4yqRUVCmhSuuQN9N36nyySct7HkL4CK4l_GwVhKfTTtxAcrRwxc9fiTQzHMDZXw1-9rms1EhVz6jVEaQd1AHTdGA=w3278-h2018-rw-v1",
+            "imageLink": "https://i.imgur.com/YvPdCT6.jpeg",
             "links": [
                 {
                     "icon": "https://cdn-icons-png.flaticon.com/512/3128/3128307.png",
@@ -98,7 +109,7 @@
         {
             "title": "Horn Antenna",
             "description": "This was a research project I did with Zhi Ler, as part of Astronomy Club. We used a homemade antenna called a horn antenna, and relatively inexpensive equipment to measure a spectral line called the hydrogen line.",
-            "imageLink": "https://lh3.googleusercontent.com/fife/ALs6j_HkZeiqLzMuQKAvO65waTXMezMp4nSVjvqFasvuJPnfcuX12x0-Q4A6-ij6-dMffEHrm2IK0FYQ8kxfM9pq1NGX_yIr-rInUwn79qMFtk64eb-vJqb1ViUuLFBihGrlASZyxIjVM4MOND7ie4ZF1LhKiD87OWmqyr52DxAcu56nrpVj75iTh05Y8FfxTsaWTdAvZw2Qci_iyJitFbxUTfT22R88HzHqesNFzYtlc7j1n-kwcCrt0qbIp3td_eMk-7TIoTadsxMJ67wZ1xbxe2Svm98UXL8hSQkUXALqXz_Bhm0ZEkqMaa-6yphXV9rYPhHYrqBuZMKcY863lKU1qhtd5oUZrClbfxGVHyQtMQUawBgVe98O33VwNCg5dvkpodlW21D6GvFYsXsweQNBz4EQos8ua7ruZXoVnIABMnnBwxS7cR0xQrMrTGhamJecJeyK_cI_2uPb8AhdJmjVCHkNfqBq4ZCFiETM99qmKg2G38CU4BGQ9qyi0wVKHnrGuOsp9kueQ3IcJu7DZIWKDdStXnzpSnGb9S8IVJRHpL-CE7rGk4-E7RDPvs-Dy_aFTUo_13OeFB7J8SEiYHewwpBv9iBpwBuLVUb7vaA5PCJ5oZdg1cGPG9_lnDhELObD8TbaZB9NDluzi4LJ-P3-qr8ngjAq4RgJsikPsA4zF4_hX2Yxx420AET4D7EK90wC_9ZQP2Yd4rdCrU4tD_EeVshvLBhZfAt2UWhuuNL9wA-pX_6TwudqYgqkzLYqsZlNHcp2I5ITupjpUzSGSQ4S0izoJSqP5afrqBKBI1d5C4aAyMQVaiMKEGrkflqPqbFj-Vf3yng27giUdEgZ-ME5BCNuuWSt0eJCqHqcwWAt-VXOIv-bAfRpl1gaJbVqxf3SWD3sPUmslPmBy9370NlQQGmlwBC1Ike-Ve6Mr_zvAo-Imp1s2f5sANP-xxJt2JD05C0neCE0oRfXQ9O9HlkBPthBC3qNWrPayLtXTN9FMpf_sw=w3278-h2018-rw-v1",
+            "imageLink": "https://i.imgur.com/iQo35Ng.jpeg",
             "links": [
                 {
                     "icon": "https://cdn-icons-png.flaticon.com/512/11462/11462797.png",
@@ -184,7 +195,7 @@
             "title": "Thailand Astronomical Conference - Horn Antenna",
             "image": "https://www.narit.or.th/images/00_banners/narit_logo.png",
             "tag": {
-                "award": "",
+                "award": "Gold",
                 "colour": "#fff",
                 "shadow": true
             }
